@@ -1,0 +1,7 @@
+The average math and reading score in the district are aroun 80%, and for the total discrict 75% of students passed math and 86% reading
+When comparing schools, the information shows that there is a significant gap between top and bottom performers, even though there are only 15 schools. All top 5 schools have math and reading passing rates above 90%, while bottom schools had passing rates in math in the 60s and reading in the 80s. 
+To try to analize what make charaterisctic is shared by the top performers it became evident:
+- All single variable that explains the variance in performance is whether a schools is Charter or Districts
+- The performance is consistent across all grades for any given school
+- There is a difference in the performance of reading, but charter schools are siginificantly higher in performance of math (94% vs. 67%)
+- Districts schools tend to be larger and have higher budgets, so when comparing the performance by size and by school spending per student, the data shown that larger schools have worse performance and also schools with lower spending are the ones with better results. But again, this is because the performance was clearly explained by the difference of charter vs. district
